@@ -37,7 +37,7 @@ BIRDS-X project is a 2U CubeSat dedicated to amateur radio communication.
 
 ```bash
 
-├── Antenna Deployment Mechanism picture
+├── Antenna Deployment Mechanism pictures
 ├── Antenna Deployment Mechanism tying procedure
 ├── Antenna Deployment Mechanism CAD files
 ├── Antenna Deployment Mechanism drawing
